@@ -32,10 +32,15 @@ This project models **Getrude's Hospital's** internal network infrastructure, co
 Skills Demonstrated
 
 Enterprise LAN/WAN Design
+
 OSPF Single-Area Configuration & Troubleshooting
+
 Subnetting & IP Address Planning
+
 Cisco Router & Switch Configuration
+
 Network Redundancy & High Availability
+
 Documentation & Diagramming
 
 
