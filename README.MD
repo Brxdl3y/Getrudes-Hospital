@@ -1,10 +1,11 @@
 **Getrude's Hospital Network Lab**
 
-A **Cisco Packet Tracer lab project** simulating a hospital network designed with scalability, redundancy, and security in mind.  
+A Cisco Packet Tracer lab project simulating a hospital network designed with **scalability, redundancy**, and **security**in mind.  
 This lab demonstrates **enterprise-grade network design** and **OSPF routing configuration** across multiple departments.  
 
 
  **Project Overview**
+
 This project models **Getrude's Hospital's** internal network infrastructure, connecting multiple departments (Reception, Laboratory, ICU, Pharmacy, and a Data Center) over a robust Layer 3 network. The design ensures:  
 - **High availability** via redundant router links  
 - **Optimized routing** with OSPF (Open Shortest Path First)  
