@@ -12,11 +12,12 @@ This project models **Getrude's Hospital's** internal network infrastructure, co
 - **Departmental segmentation** using subnetting  
 - **External ISP connectivity** for internet access 
 
- 🎯 Objectives
+ **Objectives**
+
 - Build a hospital-wide network for inter-departmental communication  
 - Implement **OSPF Single-Area** routing across all routers  
 - Configure **redundant paths** between routers for failover  
-- Segment networks for different hospital departments (Reception, Lab, ICU, Pharmacy and Data Center)  
+- **Segment networks** for different hospital departments (Reception, Lab, ICU, Pharmacy and Data Center)  
 - Connect the hospital to an external ISP (simulated)  
 - Test and verify end-to-end connectivity 
 
