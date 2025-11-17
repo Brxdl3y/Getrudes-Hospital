@@ -18,10 +18,11 @@ This project models **Getrude's Hospital's** internal network infrastructure, co
 - Implement **OSPF Single-Area** routing across all routers  
 - Configure **redundant paths** between routers for failover  
 - **Segment networks** for different hospital departments (Reception, Lab, ICU, Pharmacy and Data Center)  
-- Connect the hospital to an external ISP (simulated)  
+- Connect the hospital to an external **ISP** (simulated)  
 - Test and verify end-to-end connectivity 
 
- 🌐 IP Addressing & Subnetting
+  **IP Addressing & Subnetting**
+
 | Department      | Subnet          | Example Host IP |
 |-----------------|----------------|-----------------|
 | Reception       | 10.0.2.0/24    | 10.0.2.10       |
@@ -30,8 +31,7 @@ This project models **Getrude's Hospital's** internal network infrastructure, co
 | Data Center     | 10.1.3.0/24    | 10.1.3.2        |
 | WAN Links       | /30 Subnets    | 10.x.x.x        |
 
-
-Skills Demonstrated
+**Skills Demonstrated**
 
 Enterprise LAN/WAN Design
 
