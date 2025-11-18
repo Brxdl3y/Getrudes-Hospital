@@ -1,6 +1,6 @@
 **Getrude's Hospital Network Lab**
 
-A Cisco Packet Tracer lab project simulating a hospital network designed with **scalability, redundancy**, and **security**in mind.  
+A Cisco Packet Tracer lab project simulating a hospital network designed with **scalability, redundancy**, and **security** in mind.  
 This lab demonstrates **enterprise-grade network design** and **OSPF routing configuration** across multiple departments.  
 
 
@@ -46,7 +46,7 @@ Network Redundancy & High Availability
 Documentation & Diagramming
 
 
-Why This Project Stands Out
+**Why This Project Stands Out**
 
 This lab shows hands-on skills that directly align with CCNA, networking roles, and IT support jobs:
 
@@ -57,7 +57,7 @@ Demonstrates understanding of routing protocols and redundancy
 Professional documentation & clear topology
 
 
-How to Use
+**How to Use**
 
 Download and open **getrudes-hospital.pkt** in Cisco Packet Tracer 8.x.
 Refer to **commands.txt** for full CLI configurations.
